@@ -2245,3 +2245,6 @@ section.inner_banner h3 {
 	background: #fff;
 	color: #12385b;
 }
+#login-box{
+	max-width: none;
+}
